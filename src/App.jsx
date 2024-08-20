@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <h1>Prueba Tecninca</h1>
+      <h1>Example</h1>
       <button onClick={handleClick}>Get new fact</button>
 
       {fact && <p>{fact}</p>}
